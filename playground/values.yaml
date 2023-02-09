@@ -80,3 +80,7 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+testArrray:
+- test1
+- test2
